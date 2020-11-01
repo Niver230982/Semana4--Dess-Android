@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Social Mascotas</string>
+    <string name="m_nombre">Toby</string>
+    <string name="descripcion">Algun Pichicho</string>
+    <string name="favorito">favorito</string>
+    <string name="mContacto">Contacto</string>
+    <string name="mAcerca_de">Acerca de</string>
+    <string name="TextoAcercaDe">Acerca de</string>
+    <string name="TextoNombre">Nombre</string>
+    <string name="TextoCorreo">Correo</string>
+    <string name="TextoMensaje">Mensaje</string>
+    <string name="BtnEnviar">Enviar</string>
+    <string name="pLike">2 Likes</string>
+    pLike
+    <string name="TextoDesarrollador">Niver Arrigonni es integrante del Programa BiT de CUTI en asociación con
+    INEFOP.</string>
+
+</resources>
